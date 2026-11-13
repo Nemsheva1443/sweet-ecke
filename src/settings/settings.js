@@ -1,6 +1,6 @@
 export const pageSettings = {
   misc: {
-    brand: "die süße Ecke",
+    brand: "Gestalte deine Wunschtorte",
   },
   navbars: {
     publicNavbar: [
